@@ -20,7 +20,7 @@ function Navigation (){
 
 <nav className="navbar navbar-expand-lg  bg-body-tertiary">
 <div className="container">
-  <Link className="navbar-brand" href="/">Next first App</Link>
+  <Link className="navbar-brand" href="/">Api users App</Link>
   {/* <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"> </span>
   </button> */}
@@ -31,7 +31,7 @@ function Navigation (){
         <Link className="nav-link" href="/about">About</Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" href="/services">Services</Link>
+        <Link className="nav-link" href="/services">News</Link>
       </li>
      
     </ul>
